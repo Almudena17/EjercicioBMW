@@ -1,0 +1,223 @@
+.header{
+    background-image: url(https://neomotor.sport.es/media/2019/09/bmw-serie-1-1.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 400px;
+}
+.headerdiv{
+    display: flex;
+    margin-left: 5%;
+}
+.header__nav ul{
+    display: flex;
+    list-style: none;  
+}
+.header__nav{
+    width: 100%;
+    display: flex;
+}
+.header__nav_2{
+    display: flex;
+    align-content: center; 
+    margin-left: 30%;
+}
+.header__nav_1 li{
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    align-items: center;
+}
+.header__nav_2 li{
+    padding: 20px;
+}
+.image_bmw{
+    height: 100px;
+}
+.header__title{
+    display: block;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 7%;
+}
+.header__title h1{
+    color: white;
+    font-size: 30px;
+}
+.header__title h2{
+    color: white;
+    font-size: 25px;
+}
+button{
+    border: none;
+    color: white;
+    padding: 8px 35px;
+    margin-bottom: 3%;
+}
+.main{
+    margin-left: 5%;
+    margin-top: 8%;
+}
+.main__title{
+    color: grey;
+    font-size: 15px;
+}
+.main__list ul{
+    display: flex;
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.main__list_cabrio{
+    font-size: 25px;
+    font-weight: bold;
+    padding-right: 8%;    
+}
+.main__list_regular{
+    font-size: 15px;
+    color: grey;
+    padding-right: 8%;
+    margin-top: 7px;
+}
+.section__articles{
+    display: flex;
+    justify-content: space-between;
+}
+.section__articles_title{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.section__articles_p{
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+.generalList{
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+.section__articles2{
+    margin-top: 80px;
+}
+.section2__center{
+    border: grey 3px solid;
+    padding: 8px;
+    width: 250px;
+    margin-top: 6%;
+    margin-right: 8%;
+}
+.image-small{
+    height: 170px;
+}
+.section2__center_title{
+    font-size: 15px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+.section2__center_p{
+    font-size: 13px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+.section2__center_a{
+    text-decoration: none;
+    color: black;
+    font-size: 11px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.section2{
+    display: flex;
+    justify-content: flex-start;
+}
+.section3{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 6%;
+}
+.section3__article{
+    border:gray 3px solid;
+    padding: 8px;
+    width: 625px;
+    margin-right: 75px;
+}
+.image-medium{
+    height: 350px;
+}
+.section3__article_title{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+.section3__article_a{
+    text-decoration: none;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: bold;
+}
+.section4{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 60px;
+}
+.section4__article{
+    background-color: rgb(225, 211, 211);
+    margin-left: 70px;
+    padding: 30px 100px 20px 100px;
+}
+.section4__article1{
+    padding: 30px 100px 20px 100px;
+    background-color: rgb(225, 211, 211);
+}
+span{
+    margin-left: 35px;
+}
+.footer{
+    margin-top: 80px;
+}
+.footer__section1{
+    background-color: rgb(177, 170, 170);
+    padding-bottom: 30px;
+}
+.footer__section1_empty{
+    padding: 50px;
+    border-bottom: gray 2px solid;
+    margin: 0px 80px 0px 78px;
+}
+.footer__section1_lists{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    max-width: 70%;
+}
+.footer__section1_lists_1{
+    list-style: none;
+}
+.boldTitle{
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer__div{
+    display: flex;
+}
+.footer__div_p{
+    margin-left: 85px;
+}
+.footer__div_list{
+    display: flex;
+    margin-left: 500px;
+    list-style: none;
+    color: blue;
+}
+.footer__div_list_item{
+    padding-left: 15px;
+}
+
+
+
+
+
+
+    
+  
